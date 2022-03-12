@@ -1,4 +1,4 @@
-# Model Animation
+# GLTF Model Animation
 
 Copyright (C) 2021 DigiPen Institute of Technology
 
